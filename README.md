@@ -14,3 +14,5 @@ To run one the models:
 4. Run assignGains.m
 5. Run the model
 6. Animate the result by calling animPost(animData). The animPost function has several options, check them out by opening animPost.m in the Animations folder.
+
+This model is available for Academic or Non-Profit Organization Noncommercial research use only.
